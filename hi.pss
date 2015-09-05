@@ -1,0 +1,5 @@
+html {
+    background: </[main_theme][bg]/>;
+    color: </[main_theme][bg]/>;
+    border: </[main_theme][border][width]/> solid </[main_theme][border][color]/>;
+}

@@ -1,0 +1,10 @@
+{
+    "main_theme": {
+        "bg": "rgb(230, 230, 230)",
+        "fg": "rgb(50, 50, 50)",
+        "border": {
+            "width": "2px",
+            "color": "gray"
+        }
+    }
+}
