@@ -1,0 +1,15 @@
+#!/bin/bash
+
+echo "Installing PSS Compiler to ~/Applications"
+echo "Full path: ~/Applications/pss"
+mkdir ~/Applications
+cp src/pss ~/Applications
+chmod +x ~/Applications/pss
+
+echo
+echo
+echo "Adding ~/Applications to PATH variable in ~/.bashrc"
+echo "PATH=~/Applications:\$PATH" >> ~/.bashrc
+echo
+echo Complete!
+echo
