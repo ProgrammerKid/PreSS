@@ -5,6 +5,13 @@ PreSS is a preprocessed stylesheet syntax similar to the CSS syntax which
 allows one to use JSON, to to set and use values which can be reused in
 the PreSS file.
 
+##How Is It Useful
+PreSS is useful for when you want to be able to reuse CSS properties, and
+handle many elements at once. For example, if you were to use one color theme
+today, you may use "#212121" everywhere in your CSS. When it comes time to change
+the color theme, you will have to revise every line of CSS. Instead these colors
+can be predifined, and applied everywhere in your CSS.
+
 ##Use
 
 config.json
